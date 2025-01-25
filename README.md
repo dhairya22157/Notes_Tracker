@@ -1,15 +1,16 @@
 
-# Notes_Tracker
-Notes Tracker is a simple CRUD application that allows users to create, view, edit, update, and delete notes/codes/blogs using a title-based system. It's designed for efficient content management with an easy-to-use interface.
+# [**Notes Tracker**](https://notes-tracker-three.vercel.app/)
 
-# Website
-You can access the live application here: Notes Tracker
+**Notes Tracker** is a simple CRUD web application where users can create, view, edit, update, and delete their notes with a title-based system.  
 
-# Features
--> Add new notes with a title and description.
--> Edit and update existing notes.
--> View all saved notes.
--> Delete notes when no longer needed.
+---
+
+### **Features**  
+- **Add new notes** with a title and description.  
+- **Edit and update** existing notes.  
+- **View** all saved notes.  
+- **Delete** notes when no longer needed.  
+
 
 =======
 # React + Vite
